@@ -1,0 +1,5 @@
+input-file: input.md
+from: markdown
+to: markdown_strict
+output-file: ../README.md
+citeproc: true
