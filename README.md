@@ -12,6 +12,10 @@ Amsterdam: North Holland.
 Batchelor, George Keith. 1982. _The Theory of Homogeneous Turbulence_.
 Cambridge New York: Cambridge University Press.
 
+Beaume, Cédric. 2017. “Adaptive Stokes Preconditioning for Steady
+Incompressible Flows.” _Communications in Computational Physics_ 22 (2):
+494–516. <https://doi.org/10.4208/cicp.oa-2016-0201>.
+
 Bogey, Christophe, and Christophe Bailly. 2009. “Turbulence and Energy
 Budget in a Self-Preserving Round Jet: Direct Evaluation Using Large
 Eddy Simulation.” _Journal of Fluid Mechanics_ 627 (May): 129–60.
