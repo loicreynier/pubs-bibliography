@@ -1,4 +1,4 @@
-# Pubs bibliography
+# pubs bibliography
 
 Version control repository of my [pubs](https://github.com/pubs/pubs)
 bibliography.
@@ -114,6 +114,10 @@ Variable-Density Turbulence.” _Journal of Fluid Mechanics_ 591
 Lundgren, T. S. 2003. “Linearly Forced Isotropic Turbulence.” _Center
 for Turbulence Research Annual Research Briefs_, February, 461–73.
 <https://web.stanford.edu/group/ctr/ResBriefs03/lundgren.pdf>.
+
+Mamun, Chowdhury K., and Laurette S. Tuckerman. 1995. “Asymmetry and
+Hopf Bifurcation in Spherical Couette Flow.” _Physics of Fluids_ 7 (1):
+80–91. <https://doi.org/10.1063/1.868730>.
 
 Ooi, Andrew, Jesus Martin, Julio Soria, and M. S. Chong. 1999. “A Study
 of the Evolution and Characteristics of the Invariants of the
