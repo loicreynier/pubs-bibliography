@@ -164,6 +164,10 @@ Standardized Filesystem Layout for Scientific Data.” _Data_ 5 (2): 43.
 Streeter, Victor L., E. Benjamin Wylie, and Keith W. Bedford. 1998.
 _Fluid Mechanics_. 9th ed. Boston: WCB/McGraw Hill.
 
+Tsinober, A. 2009. _An Informal Conceptual Introduction to Turbulence_.
+2nd ed. Fluid Mechanics and Its Applications, v. 92. Dordrecht ; New
+York: Springer.
+
 Vincent, A., and M. Meneguzzi. 1991. “The Spatial Structure and
 Statistical Properties of Homogeneous Turbulence.” _Journal of Fluid
 Mechanics_ 225 (April): 1–20.
