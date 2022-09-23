@@ -161,6 +161,9 @@ Ulrich Parlitz, and Alexander Schlemmer. 2020. “Guidelines for a
 Standardized Filesystem Layout for Scientific Data.” _Data_ 5 (2): 43.
 <https://doi.org/10.3390/data5020043>.
 
+Streeter, Victor L., E. Benjamin Wylie, and Keith W. Bedford. 1998.
+_Fluid Mechanics_. 9th ed. Boston: WCB/McGraw Hill.
+
 Vincent, A., and M. Meneguzzi. 1991. “The Spatial Structure and
 Statistical Properties of Homogeneous Turbulence.” _Journal of Fluid
 Mechanics_ 225 (April): 1–20.
