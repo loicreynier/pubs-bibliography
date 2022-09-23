@@ -123,6 +123,11 @@ Mamun, Chowdhury K., and Laurette S. Tuckerman. 1995. “Asymmetry and
 Hopf Bifurcation in Spherical Couette Flow.” _Physics of Fluids_ 7 (1):
 80–91. <https://doi.org/10.1063/1.868730>.
 
+Miller, Victor, Matthew Tilghman, and Ronald Hanson. 2014. “Video: The
+Hidden Complexities of the Simple Match.” In _67th Annual Meeting of the
+APS Division of Fluid Dynamics - Gallery of Fluid Motion_. American
+Physical Society. <https://doi.org/10.1103/aps.dfd.2014.gfm.v0012>.
+
 Ooi, Andrew, Jesus Martin, Julio Soria, and M. S. Chong. 1999. “A Study
 of the Evolution and Characteristics of the Invariants of the
 Velocity-Gradient Tensor in Isotropic Turbulence.” _Journal of Fluid
