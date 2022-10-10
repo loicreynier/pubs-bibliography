@@ -137,6 +137,9 @@ Mechanics_ 381 (February): 141–74.
 Peyret, Roger. 2002. _Spectral Methods for Incompressible Viscous Flow_.
 Applied Mathematical Sciences 148. New York: Springer.
 
+Peyret, Roger, and Thomas D. Taylor. 1983. _Computational Methods for
+Fluid Flow_. Berlin, Heidelberg: Springer Berlin Heidelberg.
+
 Pope, Stephen B. 2000. _Turbulent Flows_. Cambridge New York: Cambridge
 University Press.
 
