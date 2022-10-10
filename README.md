@@ -134,6 +134,9 @@ Velocity-Gradient Tensor in Isotropic Turbulence.” _Journal of Fluid
 Mechanics_ 381 (February): 141–74.
 <https://doi.org/10.1017/s0022112098003681>.
 
+Peyret, Roger. 2002. _Spectral Methods for Incompressible Viscous Flow_.
+Applied Mathematical Sciences 148. New York: Springer.
+
 Pope, Stephen B. 2000. _Turbulent Flows_. Cambridge New York: Cambridge
 University Press.
 
