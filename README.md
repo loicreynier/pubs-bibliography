@@ -127,11 +127,6 @@ Hidden Complexities of the Simple Match.” In _67th Annual Meeting of the
 APS Division of Fluid Dynamics - Gallery of Fluid Motion_. American
 Physical Society. <https://doi.org/10.1103/aps.dfd.2014.gfm.v0012>.
 
-“On the Dynamical Theory of Incompressible Viscous Fluids and the
-Determination of the Criterion.” 1895. _Philosophical Transactions of
-the Royal Society of London. (A.)_ 186 (December): 123–64.
-<https://doi.org/10.1098/rsta.1895.0004>.
-
 Ooi, Andrew, Jesus Martin, Julio Soria, and M. S. Chong. 1999. “A Study
 of the Evolution and Characteristics of the Invariants of the
 Velocity-Gradient Tensor in Isotropic Turbulence.” _Journal of Fluid
@@ -151,6 +146,11 @@ Ravier, Stéphane, Malek Abid, Muriel Amielh, and Fabien Anselmet. 2005.
 “Direct Numerical Simulations of Variable-Density Plane Jets.” _Journal
 of Fluid Mechanics_ 546 (-1): 153.
 <https://doi.org/10.1017/s0022112005006993>.
+
+Reynolds, Osborne. 1895. “On the Dynamical Theory of Incompressible
+Viscous Fluids and the Determination of the Criterion.” _Philosophical
+Transactions of the Royal Society of London. (A.)_ 186 (December):
+123–64. <https://doi.org/10.1098/rsta.1895.0004>.
 
 Rosales, Carlos, and Charles Meneveau. 2005. “Linear Forcing in
 Numerical Simulations of Isotropic Turbulence: Physical Space
