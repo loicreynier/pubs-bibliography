@@ -25,8 +25,7 @@ Burchard, Hans, and Lars Umlauf. 2018. “Marine Turbulence.”
 <https://www.io-warnemuende.de/tl_files/staff/burchard/pdf/turbulence.pdf>.
 
 Cazalbou, Jean-Bernard, and Jérôme Fontane. 2021. “Physique de La
-Turbulence.” Formation Ingénieur ISAE-SUPAERO, Filière Dynamique des
-Fluides.
+Turbulence.” ISAE-SUPAERO Engineering Formation.
 
 Chassaing, Patrick. 2002. _Variable Density Fluid Turbulence_.
 <https://doi.org/10.1007/978-94-017-0075-7>.
