@@ -127,6 +127,11 @@ Hidden Complexities of the Simple Match.” In _67th Annual Meeting of the
 APS Division of Fluid Dynamics - Gallery of Fluid Motion_. American
 Physical Society. <https://doi.org/10.1103/aps.dfd.2014.gfm.v0012>.
 
+“On the Dynamical Theory of Incompressible Viscous Fluids and the
+Determination of the Criterion.” 1895. _Philosophical Transactions of
+the Royal Society of London. (A.)_ 186 (December): 123–64.
+<https://doi.org/10.1098/rsta.1895.0004>.
+
 Ooi, Andrew, Jesus Martin, Julio Soria, and M. S. Chong. 1999. “A Study
 of the Evolution and Characteristics of the Invariants of the
 Velocity-Gradient Tensor in Isotropic Turbulence.” _Journal of Fluid
