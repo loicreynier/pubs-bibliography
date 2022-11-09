@@ -138,6 +138,11 @@ Velocity-Gradient Tensor in Isotropic Turbulence.” _Journal of Fluid
 Mechanics_ 381 (February): 141–74.
 <https://doi.org/10.1017/s0022112098003681>.
 
+Ouafa, Mohamed El, Stephane Vincent, and Vincent Le Chenadec. 2021.
+“Monolithic Solvers for Incompressible Two-Phase Flows at Large Density
+and Viscosity Ratios.” _Fluids_ 6 (1): 23.
+<https://doi.org/10.3390/fluids6010023>.
+
 Peyret, Roger. 2002. _Spectral Methods for Incompressible Viscous Flow_.
 Applied Mathematical Sciences 148. New York: Springer.
 
