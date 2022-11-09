@@ -5,6 +5,12 @@ bibliography.
 
 ## References
 
+Almgren, Ann S., John B. Bell, Phillip Colella, Louis H. Howell, and
+Michael L. Welcome. 1998. “A Conservative Adaptive Projection Method for
+the Variable Density Incompressible Navier–Stokes Equations.” _Journal
+of Computational Physics_ 142 (1): 1–46.
+<https://doi.org/10.1006/jcph.1998.5890>.
+
 Antontsev, S. N., A. V. Kazhiktov, and V. N. Monakhov. 1989. _Boundary
 Value Problems in Mechanics of Nonhomogeneous Fluids_. North Holland
 Amsterdam: North Holland.
