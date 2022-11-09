@@ -24,6 +24,11 @@ Eddy Simulation.” _Journal of Fluid Mechanics_ 627 (May): 129–60.
 Burchard, Hans, and Lars Umlauf. 2018. “Marine Turbulence.”
 <https://www.io-warnemuende.de/tl_files/staff/burchard/pdf/turbulence.pdf>.
 
+Calgaro, Caterina, Emmanuel Creusé, and Thierry Goudon. 2008. “An Hybrid
+Finite Volume–Finite Element Method for Variable Density Incompressible
+Flows.” _Journal of Computational Physics_ 227 (9): 4671–96.
+<https://doi.org/10.1016/j.jcp.2008.01.017>.
+
 Cazalbou, Jean-Bernard, and Jérôme Fontane. 2021. “Physique de La
 Turbulence.” ISAE-SUPAERO Engineering Formation.
 
