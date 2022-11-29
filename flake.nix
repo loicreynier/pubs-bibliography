@@ -30,6 +30,22 @@
         pre-commit-check = pre-commit-hooks.lib.${system}.run {
           src = ./.;
           hooks = with pkgs; {
+            make_bib = {
+              enable = true;
+              name = "make-bibliography";
+              entry = "${pkgs.stdenv.shell} ./docs/make-bib.sh";
+              files = "yaml";
+              language = "system";
+              pass_filenames = false;
+            };
+            make_readme = {
+              enable = true;
+              name = "make-readme";
+              entry = "${pkgs.stdenv.shell} ./docs/make-readme.sh";
+              files = "yaml";
+              language = "system";
+              pass_filenames = false;
+            };
             alejandra.enable = true;
             commitizen = {
               enable = true;
