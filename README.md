@@ -80,6 +80,9 @@ Di Pierro, Bastien, Loïc Reynier, Frédéric Alizard, Anne Cadiou, Lionel
 Le Penven, and Marc Buffat. n.d. “On a Preconditionment for the Spectral
 Solution of Incompressible Variable Density Flows.”
 
+Duffy, Austen, Alan Kuhnle, and Mark Sussman. 2002. “An Improved
+Variable Density Pressure Projection Solver for Adaptive Meshes.”
+
 Fontane, Jérôme. 2005. “Transition des écoulements cisaillés libres à
 densité variable.” PhD thesis, Institut National Polytechnique de
 Toulouse. <https://oatao.univ-toulouse.fr/7338/>.
