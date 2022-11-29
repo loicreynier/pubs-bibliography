@@ -22,6 +22,12 @@ Beaume, Cédric. 2017. “Adaptive Stokes Preconditioning for Steady
 Incompressible Flows.” _Communications in Computational Physics_ 22 (2):
 494–516. <https://doi.org/10.4208/cicp.oa-2016-0201>.
 
+Bedeaux, Dick, Signe Kjelstrup, and Hans Christian Öttinger. 2006. “On a
+Possible Difference Between the Barycentric Velocity and the Velocity
+That Gives Translational Momentum in Fluids.” _Physica A: Statistical
+Mechanics and Its Applications_ 371 (2): 177–87.
+<https://doi.org/10.1016/j.physa.2006.05.023>.
+
 Bogey, Christophe, and Christophe Bailly. 2009. “Turbulence and Energy
 Budget in a Self-Preserving Round Jet: Direct Evaluation Using Large
 Eddy Simulation.” _Journal of Fluid Mechanics_ 627 (May): 129–60.
@@ -94,6 +100,11 @@ Direct Numerical Simulations with Predictions of Two-Point Closures for
 Isotropic Turbulence Convecting a Passive Scalar.” _Journal of Fluid
 Mechanics_ 118 (May): 205–19.
 <https://doi.org/10.1017/s0022112082001049>.
+
+Ishihara, Takashi, Toshiyuki Gotoh, and Yukio Kaneda. 2009. “Study of
+High–Reynolds Number Isotropic Turbulence by Direct Numerical
+Simulation.” _Annual Review of Fluid Mechanics_ 41 (1): 165–80.
+<https://doi.org/10.1146/annurev.fluid.010908.165203>.
 
 Ishihara, T., Y. Kaneda, M. Yokokawa, K. Itakura, and A. Uno. 2007.
 “Small-Scale Statistics in High-Resolution Direct Numerical Simulation
