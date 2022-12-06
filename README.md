@@ -76,10 +76,6 @@ _International Journal for Numerical Methods in Fluids_ 71 (8): 1029–54.
 Vortex.” _Journal of Fluid Mechanics_ 703 (June): 49–59.
 <https://doi.org/10.1017/jfm.2012.185>.
 
-Di Pierro, Bastien, Loïc Reynier, Frédéric Alizard, Anne Cadiou, Lionel
-Le Penven, and Marc Buffat. n.d. “On a Preconditionment for the Spectral
-Solution of Incompressible Variable Density Flows.”
-
 Duffy, Austen, Alan Kuhnle, and Mark Sussman. 2002. “An Improved
 Variable Density Pressure Projection Solver for Adaptive Meshes.”
 
@@ -176,6 +172,10 @@ Ravier, Stéphane, Malek Abid, Muriel Amielh, and Fabien Anselmet. 2005.
 “Direct Numerical Simulations of Variable-Density Plane Jets.” _Journal
 of Fluid Mechanics_ 546 (-1): 153.
 <https://doi.org/10.1017/s0022112005006993>.
+
+Reynier, Loïc, Bastien Di Pierro, Frédéric Alizard, Anne Cadiou, Lionel
+Le Penven, and Marc Buffat. n.d. “On a Preconditionment for the Spectral
+Solution of Incompressible Variable Density Flows.”
 
 Reynolds, Osborne. 1895. “On the Dynamical Theory of Incompressible
 Viscous Fluids and the Determination of the Criterion.” _Philosophical
