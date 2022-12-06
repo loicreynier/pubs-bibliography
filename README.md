@@ -174,8 +174,7 @@ of Fluid Mechanics_ 546 (-1): 153.
 <https://doi.org/10.1017/s0022112005006993>.
 
 Reynier, Loïc, Bastien Di Pierro, Frédéric Alizard, Anne Cadiou, Lionel
-Le Penven, and Marc Buffat. n.d. “On a Preconditionment for the Spectral
-Solution of Incompressible Variable Density Flows.”
+Le Penven, and Marc Buffat. n.d.
 
 Reynolds, Osborne. 1895. “On the Dynamical Theory of Incompressible
 Viscous Fluids and the Determination of the Criterion.” _Philosophical
